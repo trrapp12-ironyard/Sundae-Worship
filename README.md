@@ -123,9 +123,11 @@ Front-End
 🆕 move from static page to dynamic MVC architecture
 
 - [ ] create templating 
+
 🆕 build multiple pages
 
 - [ ] convert CSS to grid
+
 🆕 alphabetize CSS for better maintenance
 
 - [ ] contact form that handles form submission 

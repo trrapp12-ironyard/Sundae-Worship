@@ -72,7 +72,9 @@ After successfully completing this project, I set it aside for a while.  But eve
 Project Management
 
 🆕 Utilize GitHub Issues feature to create, assign, and organize issues
+
 🆕 Incorporate GitHub projects to track multiple projects simultaneously across simulated sprints and development stages
+
 - [ ] Documentation, Documentation, Documentation
 
 Technologies

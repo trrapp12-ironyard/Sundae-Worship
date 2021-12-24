@@ -71,46 +71,46 @@ After successfully completing this project, I set it aside for a while.  But eve
 
 Project Management
 
-- [x] Utilize GitHub Issues feature to create, assign, and organize issues
-- [x] Incorporate GitHub projects to track multiple projects simultaneously across simulated sprints and development stages
+🆕 Utilize GitHub Issues feature to create, assign, and organize issues
+🆕 Incorporate GitHub projects to track multiple projects simultaneously across simulated sprints and development stages
 - [ ] Documentation, Documentation, Documentation
 
 Technologies
-- [x] integrate content versioning software (Git and Github)
-- [x] integrate NodeJs for runtime build and to decrease build time
-- [x] utilize NPM for build packages, tracking dependencies, and future proofing 
-- [x] utilize Express for routing
-- [x] utilize HTML5, Sass, CSS and JavaScript for Front End
+🆕 integrate content versioning software (Git and Github)
+🆕 integrate NodeJs for runtime build and to decrease build time
+🆕 utilize NPM for build packages, tracking dependencies, and future proofing 
+🆕 utilize Express for routing
+🆕 utilize HTML5, Sass, CSS and JavaScript for Front End
 - [ ] utilize SQL to build back end
 - [ ] utilize Stripe for ecommerce
 - [ ] utilze GTM and GA for analytics
 
 Marketing
-- [x] rebrand name of company
+🆕 rebrand name of company
 - [ ] use Adobe Color to create unified color palette to use for theme throughout site
 - [ ] create mobile presence
 - [ ] incorporate SEO strategy
 - [ ] define target market
 - [ ] create call to action
-- [x] use Google Browser feature to create QR code for business card and hyperlink to social media acconnts
+🆕 use Google Browser feature to create QR code for business card and hyperlink to social media acconnts
 
 UX/UI
 - [ ] improve speed of website from v2.0 and v3.0
 - [ ] get assessment for ADA accessibility and fix issues
 - [ ] JavaScript to support touch and swipe capabilities
-- [x] create 404 error message
+🆕 create 404 error message
 - [ ] simply by hiding necessary, but unfrequently used settings, features, or information
-- [x] visually indicate if content exists beyond the fold
-- [x] create effects to indicate interactive capabilities
+🆕 visually indicate if content exists beyond the fold
+🆕 create effects to indicate interactive capabilities
 
 Front-End
-- [x] move from static page to dynamic MVC architecture
+🆕 move from static page to dynamic MVC architecture
 - [ ] create templating 
-- [x] build multiple pages
+🆕 build multiple pages
 - [ ] convert CSS to grid
-- [x] alphabetize CSS for better maintenance
+🆕 alphabetize CSS for better maintenance
 - [ ] contact form that handles form submission 
-- [x] GET and POST requests
+🆕 GET and POST requests
 
 Back-End
 - [ ] SQL database

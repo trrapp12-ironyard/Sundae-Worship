@@ -78,40 +78,58 @@ Project Management
 - [ ] Documentation, Documentation, Documentation
 
 Technologies
+
 🆕 integrate content versioning software (Git and Github)
+
 🆕 integrate NodeJs for runtime build and to decrease build time
+
 🆕 utilize NPM for build packages, tracking dependencies, and future proofing 
+
 🆕 utilize Express for routing
+
 🆕 utilize HTML5, Sass, CSS and JavaScript for Front End
+
 - [ ] utilize SQL to build back end
 - [ ] utilize Stripe for ecommerce
 - [ ] utilze GTM and GA for analytics
 
 Marketing
+
 🆕 rebrand name of company
+
 - [ ] use Adobe Color to create unified color palette to use for theme throughout site
 - [ ] create mobile presence
 - [ ] incorporate SEO strategy
 - [ ] define target market
 - [ ] create call to action
+
 🆕 use Google Browser feature to create QR code for business card and hyperlink to social media acconnts
 
 UX/UI
 - [ ] improve speed of website from v2.0 and v3.0
 - [ ] get assessment for ADA accessibility and fix issues
 - [ ] JavaScript to support touch and swipe capabilities
+
 🆕 create 404 error message
+
 - [ ] simply by hiding necessary, but unfrequently used settings, features, or information
+
 🆕 visually indicate if content exists beyond the fold
+
 🆕 create effects to indicate interactive capabilities
 
 Front-End
+
 🆕 move from static page to dynamic MVC architecture
+
 - [ ] create templating 
 🆕 build multiple pages
+
 - [ ] convert CSS to grid
 🆕 alphabetize CSS for better maintenance
+
 - [ ] contact form that handles form submission 
+
 🆕 GET and POST requests
 
 Back-End

@@ -36,7 +36,6 @@
 ---
 
 ### Version 3.0 demonstrates
----
 
 After successfully completing this project, I set it aside for a while.  But eventually the itch came back.  This time I decided I would do a complete rehaul of everything.  This would include: 
 
@@ -128,8 +127,10 @@ Data Analytics
 <br>
 <br>
 
-### Version 2.0 demonstrates:
 ---
+
+### Version 2.0 demonstrates:
+
 
 But that wasn't enough for me.  I wanted to make it better.  Even though it was my first project, I wanted to show that I could improve on it, so I refactored the code to:
 
@@ -141,9 +142,10 @@ But that wasn't enough for me.  I wanted to make it better.  Even though it was 
 <br>
 <br>
  
+---
 
 ### Version 1.0 demonstrates: 
----
+
 
 - [x] Initiative.  
   * This project has gone through three distinctive versions.  The first version was the most basic, day-one introductory assignment from Iron Yard coding camp. All it required were: 

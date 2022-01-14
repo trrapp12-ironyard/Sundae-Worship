@@ -28,7 +28,6 @@
 
 
 ### Project published at: 
----
 
 [Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)
 <br>

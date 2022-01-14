@@ -9,6 +9,9 @@
 
 ![d3_d4_conversion screen shot](https://cloud.githubusercontent.com/assets/11747875/20286878/3dfed1d8-aa86-11e6-99dd-981ea0a6db9f.png)
 
+<br>
+<br>
+
 ---
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -21,19 +24,17 @@
 <br/>
 <br/>
 
----
 
 ### Project published at: 
 ---
 
 [Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)
-<br/>
-<br/>
+<br>
+<br>
 
-### This project demonstrates:
+
+### Version 3.0 demonstrates
 ---
-
-#### Version 3.0
 
 After successfully completing this project, I set it aside for a while.  But eventually the itch came back.  This time I decided I would do a complete rehaul of everything.  This would include: 
 
@@ -122,11 +123,11 @@ Data Analytics
 - [ ] create banner to accept cookies and cookies which will save to local computer a userID, last date visited, time on site, and cookie expiration date
 - [ ] create custom filter to filter out internal traffic
 - [ ] create reports for sales 
+<br>
+<br>
 
-
+### Version 2.0 demonstrates:
 ---
-
-#### Version 2.0
 
 But that wasn't enough for me.  I wanted to make it better.  Even though it was my first project, I wanted to show that I could improve on it, so I refactored the code to:
 
@@ -134,10 +135,14 @@ But that wasn't enough for me.  I wanted to make it better.  Even though it was 
  - [x] place that JavaScript object in a file that had to be imported to practice connecting html to JavaScript files.  
  - [x] create a JavaScript object that included with the name and the individual data for each type of ice cream.
  - [x] create a JavaScript function that imported the information, iterated through an object with multiple levels, sorted it alphabetically, and then use JavaScript to dynamically built a full table complete with `<table>`, `<tr>`, `<th>`, and `<td>` elements which each contain the correct information and styling.
+
+<br>
+<br>
  
+
+### Version 1.0 demonstrates: 
 ---
 
-#### Version 1.0
 - [x] Initiative.  
   * This project has gone through three distinctive versions.  The first version was the most basic, day-one introductory assignment from Iron Yard coding camp. All it required were: 
   
@@ -193,12 +198,19 @@ But that wasn't enough for me.  I wanted to make it better.  Even though it was 
  
 </details>
 
+<br>
+<br>
+
 
 ### Project published at: 
 ---
 
 [Photo Portfolio](https://trrapp12.github.io/Flex_Box_Photo_Portfolio/)
 
+<br>
+<br>
+
 ---
+
 ### More Information: 
 \**For more information see [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*

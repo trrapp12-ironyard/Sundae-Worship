@@ -1,4 +1,8 @@
 # Sundae Worship
+
+
+##### Contributors: Trevor Rapp
+
 ---
 
 <br/>
